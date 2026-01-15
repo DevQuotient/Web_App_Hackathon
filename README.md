@@ -11,7 +11,7 @@ To set up **THERMOSECURITY** locally, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone git@github.com:DevQuotient/Web_App_Hackathon.git
+   git clone git@github.com:perzzzy/Web_App_Hackathon.git
    ````
 
    Navigate into the project directory:
