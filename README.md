@@ -1,65 +1,68 @@
-# **THERMOSECURITY by Housecom - Hackathon**
+# THERMOSECURITY by Housecom – Hackathon Project
 
 ![Main logo](assets/images/main_logo_colour.png "Main logo")
 
-Welcome to **THERMOSECURITY**! This project was developed during the Housecom Hackathon and is a remake of a school assignment. The goal was to create an interactive application that offers an engaging user experience through the use of 3D and still images. This project is designed as a mobile-first, one-page web application. The content is original to the school project and has not been altered or supplemented with additional material.
+**THERMOSECURITY** is an interactive, mobile-first, one-page web application developed during the **Housecom Hackathon** as a remake of a school assignment.
+The goal of the project was to create an engaging user experience using a combination of **3D visuals** and **still images**.
+All content is original to the school project and has not been modified or expanded beyond the original scope.
 
-## 📥 Installation and Setup
+**Technologies used:** HTML, CSS, JavaScript, 3D assets, Live Server (for local development)
 
-To set up **THERMOSECURITY** locally, follow these steps:
+---
 
-1. **Clone the Repository**
+## Installation and Running
 
-   ```bash
-   git clone git@github.com:perzzzy/Web_App_Hackathon.git
-   ````
+To use the application locally, follow these steps:
 
-   Navigate into the project directory:
+### Clone the repository
 
-   ```bash
-   cd Web_App_Hackathon
-   ```
+Using SSH:
 
-   Alternatively, you can download the app by clicking the "Code" button and selecting "Download ZIP" from the repository's GitHub page.
+```bash
+git clone git@github.com:perzzzy/Web_App_Hackathon.git
+```
 
-2. **Run the Application**
+Using HTTPS:
 
-   Open the web app using a live server in your preferred code editor(e.g., VS Code) to view and interact with the application.
+```bash
+git clone https://github.com/perzzzy/Web_App_Hackathon.git
+```
 
-## 🛠️ How to Use the Project
+### Navigate to the project directory
 
-After set up, you can explore the application in your local environment to explore its interactive features and user experience.
+```bash
+cd Web_App_Hackathon
+```
 
-## 🤝 How to Contribute
+### Or download as ZIP
 
-Contributions to **THERMOSECURITY** are welcome! Here’s how you can contribute:
+Go to the repository, click the green **Code** button, and select **Download ZIP**.
 
-1. **Fork the Repository**
+---
 
-2. **Create a Feature Branch**
+## Run the Application
 
-   ```bash
-   git checkout -b my-new-feature
-   ```
+This project is a front-end web application.
+To run it locally:
 
-3. **Commit Your Changes**
+* Open the project folder in your code editor (e.g. VS Code)
+* Use a **Live Server** extension or any local web server
+* Open the project in your browser through the local server
 
-   ```bash
-   git commit -m 'Add some feature'
-   ```
+The application will now be accessible in your browser.
 
-4. **Push Your Changes**
+---
 
-   ```bash
-   git push origin my-new-feature
-   ```
+## Usage
 
-5. **Submit a Pull Request**
+1. Open the application using a local server.
+2. Navigate through the one-page interface.
+3. Interact with the visual content and 3D elements.
+4. Explore the mobile-first layout and user experience design.
 
-   Open a pull request on the original repository to propose merging your changes.
+---
 
-I appreciate your contributions and look forward to collaborating with you!
+## License
 
-## 📜 License
-
-**THERMOSECURITY** is licensed under the [MIT License](License). Feel free to use and contribute to the project under this license.
+This project is licensed under the **MIT License**.
+You are free to use, modify, and distribute the project under the terms of this license.
